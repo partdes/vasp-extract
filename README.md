@@ -16,7 +16,7 @@ Extracts energy and structure information from VASP relaxation/static calculatio
 
 ### Output
 
-- CSV file with energy, composition, lattice parameters, etc.
+- CSV file with energy, composition, lattice parameters, ...
 - Pickle file with structure objects (pymatgen).
 
 #### Requirements
